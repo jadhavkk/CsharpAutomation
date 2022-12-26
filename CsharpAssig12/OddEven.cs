@@ -9,7 +9,7 @@ namespace Math.CsharpAssig12
     public  class OddEven
     {
         public static void OddEven1()
-        {
+        {//Even oDD NUMBER
             int a;
             Console.WriteLine("Print even number from 0 to 30");
             a = 0;
