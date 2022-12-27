@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpAssigment", "Volume\C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseAssig", "ReverseAssig\ReverseAssig.csproj", "{F1B857BD-83DB-4635-87D2-D7FE55431D21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpAssig12", "CsharpAssig12\CsharpAssig12.csproj", "{E9C35100-0003-427B-8C7F-2EA5F155EC3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpAssig12", "CsharpAssig12\CsharpAssig12.csproj", "{E9C35100-0003-427B-8C7F-2EA5F155EC3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeProject", "EmployeeProject\EmployeeProject.csproj", "{FEF3F4FD-B1FD-4C1B-B9B7-C62FE0253B37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeProject", "EmployeeProject\EmployeeProject.csproj", "{FEF3F4FD-B1FD-4C1B-B9B7-C62FE0253B37}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentManagmentProject", "StudentProject\StudentManagmentProject.csproj", "{F8EBCD85-659C-4B0A-BF45-D35796ADA4F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCartProject", "ShoppingCartProject\ShoppingCartProject.csproj", "{1975A661-C1A1-4BF8-8056-7B0361F4507A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{FEF3F4FD-B1FD-4C1B-B9B7-C62FE0253B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEF3F4FD-B1FD-4C1B-B9B7-C62FE0253B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEF3F4FD-B1FD-4C1B-B9B7-C62FE0253B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8EBCD85-659C-4B0A-BF45-D35796ADA4F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8EBCD85-659C-4B0A-BF45-D35796ADA4F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8EBCD85-659C-4B0A-BF45-D35796ADA4F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8EBCD85-659C-4B0A-BF45-D35796ADA4F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1975A661-C1A1-4BF8-8056-7B0361F4507A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1975A661-C1A1-4BF8-8056-7B0361F4507A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1975A661-C1A1-4BF8-8056-7B0361F4507A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1975A661-C1A1-4BF8-8056-7B0361F4507A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
